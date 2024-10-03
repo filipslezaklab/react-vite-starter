@@ -1,0 +1,7 @@
+Dockerfile
+.nvmrc
+.git
+.vscode
+dist
+node_modules
+README.md
