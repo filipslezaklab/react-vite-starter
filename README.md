@@ -49,3 +49,4 @@ Write a proper selectors and name classes/ids well ◕⩊◕.
 - [tanstack-router](https://tanstack.com/router/latest) Routing for React apps with awesome automatic types generation.
 - [tanstack-query](https://tanstack.com/query/latest) Async operations helper for react components, allows to skip most of the hassle in implementing async state changes in components.
 - [tanstack-virtual](https://tanstack.com/virtual/latest) Implementing DOM virtualization was never easier.
+- [typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n) i18n Translations with automatic type generation.

@@ -15,6 +15,7 @@ export default defineConfig({
     preprocessorOptions: {
       scss: {
         additionalData: `@use "@scssprefix" as *;\n`,
+        api: "modern"
       }
     },
     postcss: {

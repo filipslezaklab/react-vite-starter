@@ -1,3 +1,4 @@
+// imported in main.tsx
 @use "./variables" as *;
 
 html {
@@ -7,4 +8,10 @@ html {
 body {
   min-height: 100dvh;
   width: 100%;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
 }
